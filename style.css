@@ -1,0 +1,23 @@
+body {
+    background-color: #010101;
+    font-family: verdana;
+}
+h1 {
+    font-size: 3em;
+    color: #2e00fb;
+}
+p {
+    font-size: 2em;
+    color: #ffffff;
+}
+button {
+    background-color: #ffffff;
+    color: #4c00ff;
+    font-size: 1em;
+    width: 100px;
+    heidht: 50px;
+}
+.centralizar { 
+    text-align: center;
+    padding-top: 150px;
+}
